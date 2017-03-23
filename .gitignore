@@ -31,6 +31,5 @@ bower_components/
 
 # IDE/Editor data
 .idea
-
-.tmp
 dist
+.tmp
